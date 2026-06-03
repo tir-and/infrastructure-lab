@@ -10,10 +10,10 @@
 - bullet
 - bullet
 
-[x] checked checkbox
-[x] checked checkbox
-[ ] checkbox
-[ ] checkbox
+ [x] checked checkbox
+ [x] checked checkbox
+ [ ] checkbox
+ [ ] checkbox
 
 ```
 Code, commands, terminal output can be placed here
