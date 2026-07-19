@@ -50,7 +50,7 @@ docker logs vaultwarden
 ## Screenshots
 
 - [x] `docker ps` output showing Vaultwarden container running
-- [ ] Vaultwarden login/registration page in browser
+- [x] Vaultwarden login/registration page in browser
 - [ ] Test vault entry saved and visible
 
 ## Notes for Next Session
