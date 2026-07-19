@@ -4,9 +4,9 @@
 
 Deployed [Vaultwarden](https://github.com/dani-garcia/vaultwarden) (a lightweight self-hosted Bitwarden-compatible server) as a Docker container on my Ubuntu Server VM. Created a test vault account and confirmed I could log in, save an entry, and retrieve it.
 
-- **Server IP:** `192.168.100.x`
-- **Access URL:** `vault.lab`
-- **Container name:** `vaultwarden`
+- Server IP: `192.168.100.x`
+- Access URL: `vault.lab`
+- Container name: `vaultwarden`
 
 ## Why Vaultwarden
 
